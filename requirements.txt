@@ -1,0 +1,10 @@
+streamlit
+qdrant-client
+langchain
+langchain-qdrant
+langchain-huggingface
+langchain-google-genai
+langchain-community
+sentence-transformers
+pypdf
+google-generativeai
